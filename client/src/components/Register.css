@@ -1,0 +1,76 @@
+.registerContainer {
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .registerCancel {
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    cursor: pointer;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: slateblue;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+
+  .logoIcon {
+    width: 30px;
+    justify-content: center;
+    margin-right: 5px;
+  }
+  
+  .registerBtn {
+    /* border: none;
+    padding: 5px;
+    background-color: slateblue;
+    color: white;
+    cursor: pointer; */
+    background-image: linear-gradient(to right, #16222A 0%, #3A6073  51%, #16222A  100%);
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .registerBtn:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .success {
+    font-size: 12px;
+    color: green;
+    text-align: center;
+  }
+  
+  .failure {
+    font-size: 12px;
+    color: red;
+    text-align: center;
+  }
