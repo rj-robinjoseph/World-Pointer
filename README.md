@@ -1,2 +1,3 @@
 # World-Pointer
-![Clay_Mockup___25_](https://user-images.githubusercontent.com/48469274/126459466-d2f9b910-1ac6-4860-93b3-b3089dbb2740.png)
+![Clay_Mockup___25_](https://user-images.githubusercontent.com/48469274/126459781-04c9eeb7-ac6e-42cc-81a7-1107925c1326.jpg)
+
