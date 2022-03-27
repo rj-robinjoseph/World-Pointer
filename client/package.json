@@ -45,6 +45,5 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "Robin Joseph",
-  "license": "ISC",
-  "proxy": "http://localhost:8800/api"
+  "license": "ISC"
 }
