@@ -23,3 +23,6 @@ app.use("/api/pins", pinRoute);
 app.listen(8800, () => {
   console.log("Backend server is running!");
 });
+
+// 4. Routes
+app.get("/", (req, res) => res.status(200).send("Hello"));
